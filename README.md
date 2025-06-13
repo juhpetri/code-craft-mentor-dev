@@ -48,17 +48,15 @@ src/
 
 ## 🛠️ Como usar
 
-1. Clone ou baixe este repositório.
-2. Importe como projeto Maven/Gradle ou como projeto Java simples na sua IDE.
-3. Explore os exemplos e implemente os exercícios sugeridos.
-
----
-
-## ✅ Exercícios propostos
-
-- Criar uma classe `Pessoa` com nome, idade e um método para exibir os dados.
-- Criar um `PedidoService` que recebe um `PedidoRepository` via construtor.
-- Criar exemplos de uso de condicionais e loops para simular lógicas simples (ex: calculadora, verificador de maioridade).
+1. Faça um fork este repositório.
+   1. Faça o fork do repositório
+   2. Vá até o repositório original no GitHub.
+   3. No canto superior direito, clique no botão "Fork".
+   4. O GitHub criará uma cópia desse repositório na sua conta. 
+2. Clone o repositório forkeado
+   1. git clone https://github.com/seu-usuario/nome-do-repositorio.git
+3. Abra o projeto no seu IDE favorito (ex: IntelliJ, Eclipse).
+3. Implemente os exercícios sugeridos disponibilizado na call.
 
 ---
 
